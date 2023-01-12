@@ -9,7 +9,6 @@
     <property name="connection.username">postgres</property>
     <property name="connection.password">maxim277</property>
     <property name="hibernate.dialect">org.hibernate.dialect.PostgreSQL10Dialect</property>
-    <mapping class="entity.Auto"/>
     <mapping class="entity.Users"/>
 
     <!-- DB schema will be updated if needed -->
